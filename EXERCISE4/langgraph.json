@@ -1,0 +1,10 @@
+{
+  "$schema": "https://langgra.ph/schema.json",
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "exercise4": "./Exercise4.py:graph"
+  },
+  "env": ".env"
+}
